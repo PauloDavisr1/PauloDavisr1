@@ -1,11 +1,12 @@
 ## 
 
-Olá, me chamo Paulo Davi
+Hi, my name is Paulo David 
 
-- 🔭 Buscando vaga de estágio Front-End
-- 🌱 Atualmente estou mais centrado a estudar HTML, CSS e JavaScript
-- 👯 Procuro colaborar com a empresa e com meus colegas de equipe
-- 😄 Pronomes: Ele/Dele
+- 🔭 Looking for Front-End internship vacancy
+- 🌱 Currently I'm more focused on studying HTML, CSS and JavaScript
+- 👯 I try to collaborate with the company and with my teammates
+- 😄 Pronouns: He/His 
+- 🗺️ From: Brazil 
 
 ##
 
