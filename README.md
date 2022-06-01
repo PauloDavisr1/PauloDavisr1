@@ -1,6 +1,6 @@
 ## 
 
-Hi, my name is Paulo David 
+Hi, my name is Paulo Davi
 
 - 🔭 Looking for Front-End internship vacancy
 - 🌱 Currently I'm more focused on studying HTML, CSS and JavaScript
