@@ -20,6 +20,8 @@ Hi, my name is Paulo David
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/react-original.svg">
+  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/typescript-original.svg">
   <img align="right" alt="Paulo-pic" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/96534390/153654257-ba1cd089-559c-4df0-b681-d2e3ce1f0ac6.gif">
 </div>
   
